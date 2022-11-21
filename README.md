@@ -1,2 +1,4 @@
 # Edimar-PC-3tri-1
-Nomes: João Pedro
+Nome: João Pedro N°: 11
+ 
+ Pensamento Computacional
